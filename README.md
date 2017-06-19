@@ -11,7 +11,7 @@ export DIRCOLORTHEME='dircolors.256dark'
 ## Install
 #### 1. Manual
 ```sh
-git clone https://github.com/liangguohuan/zsh-dircolors-solarized  
+git clone --recursive https://github.com/liangguohuan/zsh-dircolors-solarized  
 source zsh-dircolors-solarized.plugin.zsh
 ```
 
