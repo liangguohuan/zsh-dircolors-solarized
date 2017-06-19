@@ -1,6 +1,13 @@
 # zsh-dircolors-solarized
 dircolors plugin for zsh use [Solarized dircolors](https://github.com/seebi/dircolors-solarized) 
 
+## Custom dircolors
+values: `dircolors.256dark` `dircolors.ansi-dark` `dircolors.ansi-light` `dircolors.ansi-universal`  
+default: `dircolors.256dark`
+```
+export DIRCOLORTHEME='dircolors.256dark'
+```
+
 ## Install
 #### 1. Manual
 ```sh
